@@ -1,0 +1,24 @@
+# Data Analysis and Science Environment
+
+# Core Packages
+numpy
+pandas
+matplotlib
+scipy
+
+# Machine Learning
+#scikit-learn
+#tensorflow
+#keras
+
+# Data Visualization
+seaborn
+plotly
+
+# Jupyter Notebooks
+jupyter
+notebook
+
+# Additional Libraries
+requests
+beautifulsoup4
