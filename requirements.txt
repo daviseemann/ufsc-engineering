@@ -6,10 +6,10 @@ pandas
 matplotlib
 scipy
 
-# Machine Learning
-#scikit-learn
-#tensorflow
-#keras
+Machine Learning
+scikit-learn
+tensorflow
+keras
 
 # Data Visualization
 seaborn
